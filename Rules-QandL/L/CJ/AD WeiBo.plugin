@@ -1,5 +1,5 @@
-#!name=Weibo
-#!desc=Weibo
+#!name=微博去广告-核舟记
+#!desc=核舟记-微博去广告
 #!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Weibo.png
 
 [Rewrite]
